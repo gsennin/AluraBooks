@@ -1,8 +1,5 @@
 <h1 align="center"> Projeto AluraBooks </h1>
 
-![Logo](https://user-images.githubusercontent.com/87886511/193098077-c82923f1-65a6-4d25-ab07-22f8996fa97c.png)
-
-
 ## Descrição do projeto:
 Curso realizado pelo grupo Alura, com o intuito de mostrar o desenvolvimento responsivo começando pelo o mobile, e conforme o projeto vai criado 'corpo', vamos moldando a responsividade para telas maiores com as midias queries.
 
